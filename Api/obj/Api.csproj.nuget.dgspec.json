@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\CleanShop2026\\Api\\Api.csproj": {}
+    "D:\\Documentos\\CleanShop2026\\API\\Api.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\CleanShop2026\\Api\\Api.csproj": {
+    "D:\\Documentos\\CleanShop2026\\API\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\CleanShop2026\\Api\\Api.csproj",
+        "projectUniqueName": "D:\\Documentos\\CleanShop2026\\API\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "D:\\Documentos\\CleanShop2026\\Api\\Api.csproj",
+        "projectPath": "D:\\Documentos\\CleanShop2026\\API\\Api.csproj",
         "packagesPath": "C:\\Users\\corre\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\CleanShop2026\\Api\\obj\\",
+        "outputPath": "D:\\Documentos\\CleanShop2026\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

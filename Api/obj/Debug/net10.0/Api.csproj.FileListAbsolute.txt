@@ -129,3 +129,12 @@ D:\Documentos\CleanShop2026\Api\obj\Debug\net10.0\refint\Api.dll
 D:\Documentos\CleanShop2026\Api\obj\Debug\net10.0\Api.pdb
 D:\Documentos\CleanShop2026\Api\obj\Debug\net10.0\Api.genruntimeconfig.cache
 D:\Documentos\CleanShop2026\Api\obj\Debug\net10.0\ref\Api.dll
+D:\Documentos\CleanShop2026\API\bin\Debug\net10.0\FluentValidation.dll
+D:\Documentos\CleanShop2026\API\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Documentos\CleanShop2026\API\bin\Debug\net10.0\MediatR.dll
+D:\Documentos\CleanShop2026\API\bin\Debug\net10.0\MediatR.Contracts.dll
+D:\Documentos\CleanShop2026\API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Documentos\CleanShop2026\API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos\CleanShop2026\API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Documentos\CleanShop2026\API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos\CleanShop2026\API\obj\Debug\net10.0\Api.sourcelink.json
