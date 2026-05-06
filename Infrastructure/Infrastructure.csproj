@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Configuration\" />
     <Folder Include="Context\" />
     <Folder Include="UnitOfWork\" />
   </ItemGroup>
