@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xyGzlp1w0W0=",
+  "dgSpecHash": "hwZCM1rQ+aE=",
   "success": true,
-  "projectFilePath": "D:\\Documentos\\CleanShop2026\\API\\Api.csproj",
+  "projectFilePath": "D:\\Documentos\\CleanShop2026\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\corre\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
     "C:\\Users\\corre\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.1\\fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
